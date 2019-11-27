@@ -1,1 +1,2 @@
-obj-y := hello.o
+obj-y += writeCrypto.o
+obj-y += readCrypto.o
